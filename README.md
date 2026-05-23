@@ -462,4 +462,4 @@ These values are currently configured in code:
 
 ## License
 
-No license file has been added yet. Add one before publishing if you want other people to use, modify, or distribute this project.
+MIT. Use it, extend it, and build on it.
